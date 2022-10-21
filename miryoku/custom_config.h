@@ -15,7 +15,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 #define MIRYOKU_LAYER_SYM \
 &kp EXCLAMATION,   &kp AT,            &kp HASH,          &kp DOLLAR,        &kp PERCENT,       &kp CARET,         &kp AMPS,          &kp ASTERISK,      &kp UNDER,         &kp SEMICOLON,          \
-&kp GRAVE,         &kp TILDE,         &kp LBRC,          &kp LPAR,          &kp LBKT,          &kp COLON,         &sk {release-after-ms = <2000>;}; LGUI,          &sk LALT,          &sk LCTRL,         &sk LSHIFT,         \
+&kp GRAVE,         &kp TILDE,         &kp LBRC,          &kp LPAR,          &kp LBKT,          &kp COLON,         &sk LGUI,          &sk LALT,          &sk LCTRL,         &sk LSHIFT,         \
 &kp LESS_THAN,     &kp GREATER_THAN,  &kp RBRC,          &kp RPAR,          &kp RBKT,          &kp PIPE,          &kp MINUS,         &kp EQUAL,         &kp PLUS,          &kp BACKSLASH,         \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
